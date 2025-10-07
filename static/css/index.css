@@ -133,5 +133,15 @@ body {
   font-size: smaller;
 }
 
-
+#results-carousel .item img.padded {
+  display: block;
+  max-width: 90%;
+  max-height: 70vh;       
+  margin: 2rem auto;         
+  padding: 1rem;            
+  box-sizing: border-box;
+  object-fit: contain;      
+  background: #fafafa;       
+  border-radius: 8px;    
+}
 
